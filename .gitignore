@@ -1,0 +1,8 @@
+# Arquivos usados no Jupyter Notebook
+.ipynb_checkpoints/
+02_production.ipynb
+Bear_App.ipynb
+export.pkl
+
+# Arquivos usados no treinamento do modelo
+uirapuru/
