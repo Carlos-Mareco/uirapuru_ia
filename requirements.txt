@@ -1,2 +1,2 @@
-fastbook
+fastai
 voila
