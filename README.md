@@ -9,3 +9,11 @@ Modelo de IA que reconhece e classifica as variações do pássaro uirapuru, com
 | uirapuru-vermelho  | uirapuru-veado |
 |----------|----------|
 | ![uirapuru-vermelho](https://user-images.githubusercontent.com/57046825/154409004-54162b69-3df7-44d3-ad66-81596bd1cb61.jpg) | ![uirapuru-veado ](https://user-images.githubusercontent.com/57046825/154409279-60a2010b-fdb9-4bd5-8e5c-71e37d0718fe.jpg) |
+
+## Licença
+
+Licenciado sob a [GNU General Public License](./LICENSE).
+
+## Considerações finais
+
+Este programa faz parte de um dos componentes avaliativos da disciplina de Inteligência Artificial do Curso de Ciência da Computação da Universidade Federal do Amapá (UNIFAP).
