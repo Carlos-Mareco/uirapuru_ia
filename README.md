@@ -10,6 +10,11 @@ Modelo de IA que reconhece e classifica as variações do pássaro uirapuru, com
 |----------|----------|
 | ![uirapuru-vermelho](https://user-images.githubusercontent.com/57046825/154409004-54162b69-3df7-44d3-ad66-81596bd1cb61.jpg) | ![uirapuru-veado ](https://user-images.githubusercontent.com/57046825/154409279-60a2010b-fdb9-4bd5-8e5c-71e37d0718fe.jpg) |
 
+## Exemplo de uso
+
+![Peek 05-03-2022 01-19](https://user-images.githubusercontent.com/57046825/156867500-4c1e7784-a522-4829-bcb8-c1f77161176f.gif)
+
+
 ## Licença
 
 Licenciado sob a [GNU General Public License](./LICENSE).
